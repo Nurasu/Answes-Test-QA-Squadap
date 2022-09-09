@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS001 - Search Item" time="183.836" tests="6" failures="0" errors="0">
+   <testsuite name="TS001 - Search Item" tests="6" failures="0" errors="0" time="183.836" skipped="0" timestamp="2022-09-09 12:42:12" hostname="ACER - BigServer-Nurasu" id="Test Suites/TS001 - Search Item">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ACER\\Katalon Studio\\Answer Test\\Reports\\20220909_124154\\TS001 - Search Item\\20220909_124154"/>
+         <property name="logFiles" value="C:\\Users\\ACER\\Katalon Studio\\Answer Test\\Reports\\20220909_124154\\TS001 - Search Item\\20220909_124154\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ACER - BigServer-Nurasu"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 105.0.0.0"/>
+         <property name="hostAddress" value="192.168.18.17"/>
+         <property name="sessionId" value="40621a9be02d3f5fb90d00e4019298f7"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC002 - Search Item" time="42.023" classname="Test Cases/TC002 - Search Item" status="PASSED">
+         <system-out><![CDATA[2022-09-09 12:42:15 - [TEST_CASE][PASSED] - Test Cases/TC002 - Search Item: Test Cases/TC002 - Search Item
+
+2022-09-09 12:42:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-09 12:42:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-09 12:42:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-09 12:42:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-09 12:42:28 - [TEST_STEP][PASSED] - navigateToUrl("https://kyou.id/"): Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:42:39 - [MESSAGE][PASSED] - Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:42:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Boleh Kyou")): Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:42:46 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:42:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/input_Go to Homepage_search"), "nendoroid"): Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:42:50 - [MESSAGE][PASSED] - Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:42:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Clear search query_submit")): Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:42:51 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:42:51 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59"), filterItem, true): All options with value 'relevance' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:42:56 - [MESSAGE][PASSED] - All options with value 'relevance' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:42:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-09 12:42:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC002 - Search Item" time="25.016" classname="Test Cases/TC002 - Search Item" status="PASSED">
+         <system-out><![CDATA[2022-09-09 12:42:57 - [TEST_CASE][PASSED] - Test Cases/TC002 - Search Item: Test Cases/TC002 - Search Item
+
+2022-09-09 12:42:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-09 12:42:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-09 12:42:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-09 12:42:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-09 12:42:59 - [TEST_STEP][PASSED] - navigateToUrl("https://kyou.id/"): Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:43:08 - [MESSAGE][PASSED] - Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:43:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Boleh Kyou")): Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:43:12 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:43:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/input_Go to Homepage_search"), "nendoroid"): Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:43:15 - [MESSAGE][PASSED] - Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:43:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Clear search query_submit")): Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:43:17 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:43:17 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59"), filterItem, true): All options with value 'newest' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:43:19 - [MESSAGE][PASSED] - All options with value 'newest' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:43:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-09 12:43:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC002 - Search Item" time="26.243" classname="Test Cases/TC002 - Search Item" status="PASSED">
+         <system-out><![CDATA[2022-09-09 12:43:22 - [TEST_CASE][PASSED] - Test Cases/TC002 - Search Item: Test Cases/TC002 - Search Item
+
+2022-09-09 12:43:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-09 12:43:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-09 12:43:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-09 12:43:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-09 12:43:24 - [TEST_STEP][PASSED] - navigateToUrl("https://kyou.id/"): Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:43:34 - [MESSAGE][PASSED] - Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:43:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Boleh Kyou")): Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:43:37 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:43:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/input_Go to Homepage_search"), "nendoroid"): Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:43:40 - [MESSAGE][PASSED] - Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:43:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Clear search query_submit")): Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:43:41 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:43:41 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59"), filterItem, true): All options with value 'oldest' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:43:47 - [MESSAGE][PASSED] - All options with value 'oldest' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:43:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-09 12:43:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC002 - Search Item" time="29.78" classname="Test Cases/TC002 - Search Item" status="PASSED">
+         <system-out><![CDATA[2022-09-09 12:43:48 - [TEST_CASE][PASSED] - Test Cases/TC002 - Search Item: Test Cases/TC002 - Search Item
+
+2022-09-09 12:43:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-09 12:43:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-09 12:43:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-09 12:43:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-09 12:43:52 - [TEST_STEP][PASSED] - navigateToUrl("https://kyou.id/"): Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:44:00 - [MESSAGE][PASSED] - Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:44:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Boleh Kyou")): Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:44:06 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:44:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/input_Go to Homepage_search"), "nendoroid"): Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:44:07 - [MESSAGE][PASSED] - Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:44:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Clear search query_submit")): Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:44:12 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:44:12 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59"), filterItem, true): All options with value 'highest_price' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:44:17 - [MESSAGE][PASSED] - All options with value 'highest_price' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:44:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-09 12:44:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC002 - Search Item" time="28.618" classname="Test Cases/TC002 - Search Item" status="PASSED">
+         <system-out><![CDATA[2022-09-09 12:44:18 - [TEST_CASE][PASSED] - Test Cases/TC002 - Search Item: Test Cases/TC002 - Search Item
+
+2022-09-09 12:44:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-09 12:44:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-09 12:44:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-09 12:44:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-09 12:44:23 - [TEST_STEP][PASSED] - navigateToUrl("https://kyou.id/"): Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:44:31 - [MESSAGE][PASSED] - Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:44:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Boleh Kyou")): Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:44:35 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:44:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/input_Go to Homepage_search"), "nendoroid"): Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:44:39 - [MESSAGE][PASSED] - Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:44:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Clear search query_submit")): Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:44:40 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:44:40 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59"), filterItem, true): All options with value 'lowest_price' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:44:46 - [MESSAGE][PASSED] - All options with value 'lowest_price' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:44:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-09 12:44:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC002 - Search Item" time="28.67" classname="Test Cases/TC002 - Search Item" status="PASSED">
+         <system-out><![CDATA[2022-09-09 12:44:47 - [TEST_CASE][PASSED] - Test Cases/TC002 - Search Item: Test Cases/TC002 - Search Item
+
+2022-09-09 12:44:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-09 12:44:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-09 12:44:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-09 12:44:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-09 12:44:51 - [TEST_STEP][PASSED] - navigateToUrl("https://kyou.id/"): Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:45:00 - [MESSAGE][PASSED] - Navigate to 'https://kyou.id/' successfully
+
+2022-09-09 12:45:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Boleh Kyou")): Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:45:04 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Boleh Kyou' is clicked on
+
+2022-09-09 12:45:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/input_Go to Homepage_search"), "nendoroid"): Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:45:07 - [MESSAGE][PASSED] - Text 'nendoroid' is set on object 'Object Repository/input_Go to Homepage_search'
+
+2022-09-09 12:45:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/button_Clear search query_submit")): Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:45:09 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Clear search query_submit' is clicked on
+
+2022-09-09 12:45:09 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59"), filterItem, true): All options with value 'wishlists' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:45:14 - [MESSAGE][PASSED] - All options with value 'wishlists' are selected in object 'Object Repository/select_RelevanceLatestOldestHighest PriceLo_3c5c59'  using regular expression
+
+2022-09-09 12:45:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-09 12:45:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-09-09 12:42:12 - [TEST_SUITE][PASSED] - TS001 - Search Item: Test Cases/TC002 - Search Item]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

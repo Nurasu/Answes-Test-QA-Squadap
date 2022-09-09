@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>95ce3888-4415-443d-a9b5-7ae4f2485c2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='nav']/form/button[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.submit > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a1d90b06-e098-45a2-a119-9b6c4b625754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/img/icon/search.svg</value>
+      <webElementGuid>019539e5-4c30-4c87-9506-540289d97754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav&quot;)/form[@class=&quot;search&quot;]/button[@class=&quot;submit&quot;]/img[1]</value>
+      <webElementGuid>91ee81e4-6af2-4b6c-bd36-1dfdfdd2edba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='nav']/form/button[2]/img</value>
+      <webElementGuid>9bc5b8df-d622-4650-9f74-b26440efdf9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button[2]/img</value>
+      <webElementGuid>0ef373e8-3477-4a6b-9dd2-833a894a560a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/img/icon/search.svg']</value>
+      <webElementGuid>5871a7f6-b28f-49be-a747-031ffa0dc522</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

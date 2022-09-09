@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hi, apa kamu mau dapat notifikasi seput_6b8923</name>
+   <tag></tag>
+   <elementGuidId>76d097a8-4f64-48fb-b62a-fb301dfbd0e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onesignal-slidedown-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onesignal-slidedown-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bace636e-f8e2-4663-831c-162067456585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onesignal-slidedown-container</value>
+      <webElementGuid>f5835047-7341-46f3-b284-d2b8bdbafbc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onesignal-slidedown-container onesignal-reset slide-down</value>
+      <webElementGuid>ab8f693a-c8b4-43a8-93d3-34a1dc20a9c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hi, apa kamu mau dapat notifikasi seputar item terbaru / event Kyou?Boleh Kyou!Nggak dulu Kyou</value>
+      <webElementGuid>afc577ec-1c45-41c8-8f56-c83d6b7d0e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onesignal-slidedown-container&quot;)</value>
+      <webElementGuid>f1b69df9-d67b-4dc7-af82-30594e390c79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='onesignal-slidedown-container']</value>
+      <webElementGuid>836f254d-17cf-46cc-9f23-9a3a2606b62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[2]/following::div[3]</value>
+      <webElementGuid>f2c0754d-3670-4426-be32-9d5f0d55de46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/following::div[5]</value>
+      <webElementGuid>0d98c2d9-b0fa-461a-a8c2-66d5c242bc76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>3fc6e705-6842-402d-ba1e-b8ca77bc17e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'onesignal-slidedown-container' and (text() = 'Hi, apa kamu mau dapat notifikasi seputar item terbaru / event Kyou?Boleh Kyou!Nggak dulu Kyou' or . = 'Hi, apa kamu mau dapat notifikasi seputar item terbaru / event Kyou?Boleh Kyou!Nggak dulu Kyou')]</value>
+      <webElementGuid>62b3ef1c-5296-4ea9-9574-5e19293774a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

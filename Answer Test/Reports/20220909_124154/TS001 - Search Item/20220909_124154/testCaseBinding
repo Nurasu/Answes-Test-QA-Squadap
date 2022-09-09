@@ -1,0 +1,6 @@
+{"testCaseName":"Test Cases/TC002 - Search Item","testCaseId":"Test Cases/TC002 - Search Item","iterationVariableName":"","bindedValues":{"filterItem":"\u0027relevance\u0027"}}
+{"testCaseName":"Test Cases/TC002 - Search Item","testCaseId":"Test Cases/TC002 - Search Item","iterationVariableName":"","bindedValues":{"filterItem":"\u0027newest\u0027"}}
+{"testCaseName":"Test Cases/TC002 - Search Item","testCaseId":"Test Cases/TC002 - Search Item","iterationVariableName":"","bindedValues":{"filterItem":"\u0027oldest\u0027"}}
+{"testCaseName":"Test Cases/TC002 - Search Item","testCaseId":"Test Cases/TC002 - Search Item","iterationVariableName":"","bindedValues":{"filterItem":"\u0027highest_price\u0027"}}
+{"testCaseName":"Test Cases/TC002 - Search Item","testCaseId":"Test Cases/TC002 - Search Item","iterationVariableName":"","bindedValues":{"filterItem":"\u0027lowest_price\u0027"}}
+{"testCaseName":"Test Cases/TC002 - Search Item","testCaseId":"Test Cases/TC002 - Search Item","iterationVariableName":"","bindedValues":{"filterItem":"\u0027wishlists\u0027"}}

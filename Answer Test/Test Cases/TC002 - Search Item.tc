@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - Search Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ab2e344-d1a0-4a1b-8218-c4a1740a9fb2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58c51705-25cb-43b1-a6e3-535a85a362d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58c51705-25cb-43b1-a6e3-535a85a362d8</id>
+      <masked>false</masked>
+      <name>filterItem</name>
+   </variable>
+</TestCaseEntity>

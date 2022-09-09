@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RelevanceLatestOldestHighest PriceLo_3c5c59</name>
+   <tag></tag>
+   <elementGuidId>f12bf9f4-1772-4e9f-9271-5b894b3e0486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div[2]/div/div[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>654caa8f-afd4-45ab-82a9-5e307dd66204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RelevanceLatestOldestHighest PriceLowest PriceMost Liked</value>
+      <webElementGuid>ade12065-f110-4075-9837-a86de0595a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;transition&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;transition&quot;]/div[@class=&quot;searchpage&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;content__main&quot;]/div[@class=&quot;heading&quot;]/div[@class=&quot;right&quot;]/select[1]</value>
+      <webElementGuid>9af1b012-2366-4279-a28a-be3e4dee9340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>adab0ca4-c380-4bfe-8a93-631e4bbf9f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RelevanceLatestOldestHighest PriceLowest PriceMost Liked</value>
+      <webElementGuid>85ee2c90-d893-4877-a6fa-299ff2025f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;transition&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;transition&quot;]/div[@class=&quot;searchpage&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;content__main&quot;]/div[@class=&quot;heading&quot;]/div[@class=&quot;right&quot;]/select[1]</value>
+      <webElementGuid>806042ef-1c69-4f72-9072-d2bd1ae205eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div[2]/div/div[2]/select</value>
+      <webElementGuid>53d7973b-1cda-40bb-b6c7-cf6a9c384db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::select[1]</value>
+      <webElementGuid>790a1dc7-874e-4323-bd3c-2b8005ad8d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1—40 of 3319'])[1]/following::select[1]</value>
+      <webElementGuid>72189bb9-8f2b-4e32-be87-0f310a5999d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::select[1]</value>
+      <webElementGuid>c7567053-0914-46c5-b3d6-6437e3ef0534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest'])[2]/preceding::select[1]</value>
+      <webElementGuid>c052b3ca-f11b-4351-bd9c-2b3fb93ea572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b2343fc4-c386-4dcf-869d-e10d454f883e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'RelevanceLatestOldestHighest PriceLowest PriceMost Liked' or . = 'RelevanceLatestOldestHighest PriceLowest PriceMost Liked')]</value>
+      <webElementGuid>40dba665-613c-4607-8ff8-c312177778ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
